@@ -1,0 +1,7 @@
+C:\Work\c_dotnet\assignment3\assignment3\bin\x86\Debug\assignment3.mdb
+C:\Work\c_dotnet\assignment3\assignment3\bin\x86\Debug\assignment3.exe.config
+C:\Work\c_dotnet\assignment3\assignment3\bin\x86\Debug\assignment3.exe
+C:\Work\c_dotnet\assignment3\assignment3\bin\x86\Debug\assignment3.pdb
+C:\Work\c_dotnet\assignment3\assignment3\obj\x86\Debug\assignment3.csprojAssemblyReference.cache
+C:\Work\c_dotnet\assignment3\assignment3\obj\x86\Debug\assignment3.exe
+C:\Work\c_dotnet\assignment3\assignment3\obj\x86\Debug\assignment3.pdb
